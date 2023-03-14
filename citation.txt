@@ -1,0 +1,9 @@
+@article{REPO-201,
+    author = "Kruitwagen, L and Story, KT and Friedrich, J and Byers, L and Skillman, S and Hepburn, C",
+    journal = "Nature",
+    number = "7882",
+    pages = "604--610",
+    title = "{A Global Inventory of Photovoltaic Solar Energy Generating Units}",
+    volume = "598",
+    year = "2021"
+}
